@@ -1,7 +1,6 @@
-# Test de création,suppression,mise à jour, etc
-# Dans ce projet on ne test pas la securité
+# Test de création, suppression, mise à jour, etc.
+## Dans ce projet, on ne teste pas la sécurité.
 
-## On run le projet
+### Exécution du projet
 
 ./mvnw spring-boot:run
-
